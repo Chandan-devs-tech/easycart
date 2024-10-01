@@ -71,7 +71,7 @@
 
 **Check out the live demo of the project:**
 
-- [Live Demo Link](#)
+- [Live Demo Link](https://easycart-liard.vercel.app/)
 
 ## Screenshots of EasyCart
 
