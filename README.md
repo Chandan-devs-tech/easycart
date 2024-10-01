@@ -18,6 +18,11 @@
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
+  - [Screenshots of EasyCart](#screenshots-of-easycart)
+    - [Home Screen - Desktop Version](#home-screen---desktop-version)
+    - [Home Screen - Mobile Version](#home-screen---mobile-version)
+    - [Cart Screen - Desktop Version](#cart-screen---desktop-version)
+    - [Cart Screen - Mobile Version](#cart-screen---mobile-version)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -44,7 +49,7 @@
   <summary>Client</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">Tailwind CSS</a></li>
+    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
   </ul>
 </details>
 
@@ -68,8 +73,25 @@
 
 - [Live Demo Link](#)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Screenshots of EasyCart
 
+### Home Screen - Desktop Version
+
+<img src="./public/images/homescreen_desktop_version.png" alt="Home Screen - Desktop Version" width="300" height="auto" />
+
+### Home Screen - Mobile Version
+
+<img src="./public/images/homescreen_mobile_version.png" alt="Home Screen - Mobile Version" width="300" height="auto" />
+
+### Cart Screen - Desktop Version
+
+<img src="./public/images/cartscreen_desktop_version.png" alt="Cart Screen - Desktop Version" width="300" height="auto" />
+
+### Cart Screen - Mobile Version
+
+<img src="./public/images/cartscreen_mobile_version.png" alt="Cart Screen - Mobile Version" width="300" height="auto" />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
