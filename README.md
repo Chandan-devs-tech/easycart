@@ -37,7 +37,7 @@
 
 # 📖 Shopping Cart Application <a name="about-project"></a>
 
-**EasyCart Application** is a simple project that allows users to manage products in a shopping cart. Users can add products to the cart, update product quantities, and remove products. This project is built using `ReactJS` & `Tailwind CSS` without a database, storing the product details in an array.
+**EasyCart Application** is a simple project that allows users to manage products in a shopping cart. Users can add products to the cart, update product quantities, and remove products. This project is built using `ReactJS` & `Bootstrap` without a database, storing the product details in an array.
 
 ## 🛠 Built With <a name="built-with"></a>
 
